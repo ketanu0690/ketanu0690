@@ -1,18 +1,16 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ketanu0690/ketanu0690/main/profile_banner.png" alt="Ketan Upadhyay Banner" width="100%">
-</div>
-
 <h1 align="center">Hi, I'm Ketan Upadhyay 👋</h1>
 
-<h3 align="center">In the symphony of software development, I orchestrate the harmony of React and .NET, creating applications that resonate with both performance and user experience.</h3>
+<h3 align="center">
+In the symphony of software development, I orchestrate the harmony of React and .NET — creating applications that resonate with both performance and user experience.
+</h3>
 
----
+<div align="center">
+  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/Profile_Banner.PNG" alt="Ketan Upadhyay Banner" width="100%">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ketanu0690/ketanu0690/main/intro_animation.gif" alt="Developer Intro" width="70%">
 </div>
-
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ketan-upadhyay-382506149/" target="_blank">
@@ -28,48 +26,59 @@
 
 ---
 
-<h2>🧑‍💻 About Me</h2>
+<h2>📄 Summary</h2>
 
 <p>
-Senior <strong>Full Stack Developer</strong> with hands-on experience in <strong>.NET, React, TypeScript, and Autodesk Platform Services (APS)</strong>.  
-I build scalable, enterprise-grade web applications and integrations that connect data, design, and construction ecosystems.
+Senior <strong>Software Developer</strong> with proven expertise in <strong>.NET development, RESTful APIs, and Autodesk Platform Services (APS)</strong>.  
+Skilled at building scalable web applications, APS-integrated solutions, and enterprise-grade APIs that enhance collaboration and performance.  
+Experienced in customizing APS Viewer, integrating ACC/BIM360 APIs, and optimizing system efficiency.  
+Adept at full-stack development, cloud deployments, and CI/CD automation — consistently delivering secure, high-quality solutions in cross-functional environments.
 </p>
 
-<ul>
-  <li>⚙️ Expert in developing APS-integrated solutions using .NET, Fast Endpoints, and React.js</li>
-  <li>🔗 Specialized in Autodesk Platform Services (APS) & Autodesk Construction Cloud (ACC)</li>
-  <li>🚀 Focused on performance, scalability, and clean architectural patterns</li>
-  <li>☁️ Experienced with AWS, Azure, Docker, and CI/CD automation</li>
-</ul>
+---
+
+<h2>🧠 Technical Skills</h2>
+
+- **Programming & Frameworks:** .NET 6/8 (ASP.NET Core, Fast Endpoints), C#, Node.js  
+- **Frontend Development:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind, Material UI  
+- **Cloud & DevOps:** AWS (DynamoDB, Lambda, S3), Azure, Docker, CI/CD (YAML pipelines)  
+- **Autodesk Platform Services (APS):** ACC/BIM360 APIs, Data Management API, APS Viewer, Weave UI  
+- **Databases:** PostgreSQL, MS-SQL, DynamoDB  
+- **Testing & Tools:** JMeter, Blaze Meter, Git  
 
 ---
 
 <h2>💼 Professional Experience</h2>
 
 **🏢 Web Idea Solution LLP — Senior Software Developer**  
-📅 *Dec 2024 – Oct 2025*  
-- Developed APS-integrated applications using .NET 8, Fast Endpoints, React.js, and Weave UI  
-- Built 20+ scalable APIs enhancing Autodesk ACC/BIM360 workflows  
-- Created reusable React component libraries (TypeScript, Tailwind, MUI)  
-- Integrated CI/CD pipelines & implemented load testing with JMeter/BlazeMeter  
+📅 *02 Dec 2024 – Present*  
+📍 *Remote / Ahmedabad, India*  
+
+- Developed APS-integrated applications combining **.NET 8**, **Fast Endpoints**, **React.js**, and **Weave UI** to extend ACC/BIM360 workflows  
+- Built and deployed **20+ APIs**, improving scalability and efficiency of APS-backed systems  
+- Created reusable UI libraries (React, TypeScript, Tailwind, Material UI) for consistent enterprise design patterns  
+- Enhanced reliability by integrating **CI/CD pipelines** and conducting load testing (**JMeter**, **Blaze Meter**)  
 
 ---
 
 **🏢 Mamsys Consultancy Services — Associate Software Developer**  
-📅 *May 2023 – Nov 2024*  
-- Modernized 40+ healthcare desktop apps to React + .NET web apps (50% performance boost)  
-- Delivered 50+ REST APIs with EF Core for secure backend systems  
-- Built reusable React UI components reducing dev time significantly  
-- Delivered 3 FDA-compliant healthcare modules with reduced manual errors  
+📅 *15 May 2023 – 29 Nov 2024*  
+
+- Modernized **40+ healthcare desktop apps** into web apps using **React.js**, **NX**, and **.NET Core**, achieving 50% performance gains  
+- Delivered **50+ RESTful APIs** with Entity Framework to support secure, scalable backend workflows  
+- Designed **20+ reusable React components** (forms & tables) reducing dev time by 30%  
+- Implemented scanner-based functionality improving client data entry efficiency by 30%  
+- Successfully delivered 3 major healthcare compliance projects (**Tissue Receiving**, **Tutoplast**, **PassIn-PassOut**) ensuring FDA and industry standard adherence  
 
 ---
 
 **🏢 Red Hill Labs — Software Developer Intern**  
-📅 *Feb 2022 – Apr 2023*  
-- Built a full-stack food inventory management platform (*Healthy Inside – Food Cares*) using React, Next.js, Node.js, AWS, and DynamoDB  
-- Improved page load by 40% with SSR optimization  
-- Implemented secure authentication with RBAC  
-- Enhanced real-time performance and data accuracy across inventory workflows  
+📅 *18 Feb 2022 – 15 Apr 2023*  
+
+- Built a full-stack **food inventory management platform (Healthy Inside – Food Cares)** using **React.js**, **TypeScript**, **Next.js**, **Node.js**, **AWS**, and **DynamoDB**  
+- Developed responsive UIs with server-side rendering in **Next.js**, improving load speed by 40%  
+- Implemented secure authentication and role-based access control following **OWASP** best practices  
+- Optimized backend and DB performance for real-time operations, enhancing data accuracy by 25%  
 
 ---
 
@@ -80,21 +89,41 @@ ITM Group of Institutions, Gwalior | 2019 – 2023
 
 ---
 
-<h2>🛠️ Tech Stack & Tools</h2>
+<h2>🧩 Featured Projects</h2>
+
+| Project | Tech Stack | Description |
+|----------|-------------|-------------|
+| 🎮 **Retro Web Application** | React, TypeScript, Styled Components | A nostalgia-packed web experience inspired by 90s UI and pixel aesthetics. |
+| 🎥 **YouTube Clone** | React, Node.js, Firebase | A fully responsive clone with video upload, auth, and real-time comments. |
+| 🍏 **Apple Website Clone** | React, TailwindCSS, GSAP | A pixel-perfect recreation of Apple’s website with scroll animations and transitions. |
+| 💼 **Job Hunter Dashboard** | .NET 8, React, SQL Server | A data-driven dashboard for tracking applications, interviews, and offers. |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Autodesk%20APS-00ADEF?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk APS">
-  <img src="https://img.shields.io/badge/Autodesk%20ACC-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Autodesk ACC">
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/Projects_Banner.PNG" alt="Projects Banner" width="90%">
+</p>
+
+---
+
+<h2>🎮 Mini Game — Catch the Code!</h2>
+
+<p align="center">A fun little browser game built by me — test your reflexes and catch the floating <b>"const"</b> before time runs out!</p>
+
+<p align="center">
+  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/catchthecode.gif" alt="Catch the Code Game Preview" width="70%">
+</p>
+
+<p align="center">
+  <a href="https://ketanu0690.github.io/game" target="_blank">
+    <img src="https://img.shields.io/badge/🎮 Play_Now-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Play Game">
+  </a>
+</p>
+
+---
+
+<h2>⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,cs,dotnet,html,css,tailwind,aws,azure,docker,git,github" />
 </p>
 
 ---
@@ -102,29 +131,13 @@ ITM Group of Institutions, Gwalior | 2019 – 2023
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketanu0690&show_icons=true&theme=radical" alt="Ketan's GitHub stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanu0690&theme=radical" alt="Ketan's GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketanu0690&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-<h2>🚀 Currently Working On</h2>
-
-- APS/ACC integration automation  
-- Full-stack performance optimization (React + .NET 8)  
-- Building modular UI libraries with TypeScript & Tailwind  
-
----
-
-<h2>📫 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ketan-upadhyay-382506149/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanu0690&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-⭐ *“Maybe God created eyes so that man could appreciate art.” — I create code that earns that appreciation.*
+<h3 align="center">“Maybe God created eyes so that man could appreciate art.” — Ketan Upadhyay 🎨</h3>
