@@ -122,7 +122,7 @@ ITM Group of Institutions, Gwalior | 2019 – 2023
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,cs,dotnet,html,css,tailwind,aws,azure,docker,git,github" />
-  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/autodesk_logo.jpeg"  alt="autodesk" />
+  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/autodesk_logo.jpeg" alt="autodesk" height="48" style="vertical-align: middle; margin-left: 6px;" />
 </p>
 
 ---
