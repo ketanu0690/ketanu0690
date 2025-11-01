@@ -51,8 +51,8 @@ Adept at full-stack development, cloud deployments, and CI/CD automation — con
 <h2>💼 Professional Experience</h2>
 
 **🏢 Web Idea Solution LLP — Senior Software Developer**  
-📅 *02 Dec 2024 – Present*  
-📍 *Remote / Ahmedabad, India*  
+📅 *02 Dec 2024 – 30 Oct 2025*  
+📍 *Remote , India*  
 
 - Developed APS-integrated applications combining **.NET 8**, **Fast Endpoints**, **React.js**, and **Weave UI** to extend ACC/BIM360 workflows  
 - Built and deployed **20+ APIs**, improving scalability and efficiency of APS-backed systems  
@@ -63,7 +63,7 @@ Adept at full-stack development, cloud deployments, and CI/CD automation — con
 
 **🏢 Mamsys Consultancy Services — Associate Software Developer**  
 📅 *15 May 2023 – 29 Nov 2024*  
-
+📍 *Noida , India* 
 - Modernized **40+ healthcare desktop apps** into web apps using **React.js**, **NX**, and **.NET Core**, achieving 50% performance gains  
 - Delivered **50+ RESTful APIs** with Entity Framework to support secure, scalable backend workflows  
 - Designed **20+ reusable React components** (forms & tables) reducing dev time by 30%  
@@ -73,7 +73,8 @@ Adept at full-stack development, cloud deployments, and CI/CD automation — con
 ---
 
 **🏢 Red Hill Labs — Software Developer Intern**  
-📅 *18 Feb 2022 – 15 Apr 2023*  
+📅 *18 Feb 2022 – 15 Apr 2023* 
+📍 *Remote , India* 
 
 - Built a full-stack **food inventory management platform (Healthy Inside – Food Cares)** using **React.js**, **TypeScript**, **Next.js**, **Node.js**, **AWS**, and **DynamoDB**  
 - Developed responsive UIs with server-side rendering in **Next.js**, improving load speed by 40%  
@@ -98,9 +99,6 @@ ITM Group of Institutions, Gwalior | 2019 – 2023
 | 🍏 **Apple Website Clone** | React, TailwindCSS, GSAP | A pixel-perfect recreation of Apple’s website with scroll animations and transitions. |
 | 💼 **Job Hunter Dashboard** | .NET 8, React, SQL Server | A data-driven dashboard for tracking applications, interviews, and offers. |
 
-<p align="center">
-  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/Projects_Banner.PNG" alt="Projects Banner" width="90%">
-</p>
 
 ---
 
