@@ -9,11 +9,13 @@
 
 <br>
 
+
+
+> **Building AI Agents • React • .NET • OpenSearch • Cloud**
+
 <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png" width="100%" />
 
 <br>
-
-> **Building AI Agents • React • .NET • OpenSearch • Cloud**
 
 <p>
 
