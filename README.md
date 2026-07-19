@@ -1,38 +1,29 @@
-
-# Hi, I'm Ketan Upadhyay 👋
-
 <div align="center">
 
-<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/Profile_Banner.PNG" width="100%" />
+# 🎮 KETAN.EXE
 
-<br><br>
+<img src="[https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png](https://github.com/ketanu0690/media-kit/blob/main/Images/cyberpunk-banner.png)" width="100%" alt="Cyberpunk Banner"/>
 
-<img src="https://raw.githubusercontent.com/ketanu0690/ketanu0690/main/intro_animation.gif" width="75%" />
+<br>
 
-# 🎮 PLAYER PROFILE
+<img src="[./assets/pixel-night.gif](https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png)" width="100%" alt="Pixel Night"/>
 
-```text
-╔══════════════════════════════════════╗
-║ Name     : Ketan Upadhyay            ║
-║ Class    : Full Stack Engineer       ║
-║ Guild    : Autodesk                  ║
-║ Level    : 25                        ║
-║ XP       : ████████████████ 3500+    ║
-║ Status   : Building AI Agents 🤖     ║
-╚══════════════════════════════════════╝
-```
+<h3>
+LEVEL 25 • SOFTWARE ENGINEER • AI BUILDER
+</h3>
 
 <p>
+
 <a href="https://www.linkedin.com/in/ketan-upadhyay-382506149/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ketanupadhyay40@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://ketanu0690.github.io/game">
-<img src="https://img.shields.io/badge/Play_My_Game-111111?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/🎮_Play_My_Game-black?style=for-the-badge&logo=javascript"/>
 </a>
 
 </p>
@@ -41,71 +32,92 @@
 
 ---
 
-# ⚡ Boot Sequence
+# 🎮 PLAYER CARD
 
-```bash
-> boot developer
-
-Loading React.............. ██████████ 100%
-Loading .NET............... ██████████ 100%
-Loading TypeScript......... ██████████ 100%
-Loading AI Agents.......... ██████████ 100%
-
-Welcome Back Ketan!
-Mission Status : ACTIVE
+```text
+╔══════════════════════════════════════╗
+║ Name        Ketan Upadhyay           ║
+║ Class       Full Stack Engineer      ║
+║ Guild       Autodesk                 ║
+║ Level       25                       ║
+║ XP          ██████████████ 3500+     ║
+║ Status      AI Mode Enabled          ║
+╚══════════════════════════════════════╝
 ```
 
 ---
 
-# 🎯 Current Mission
+# ⚡ BOOT SEQUENCE
 
-- 🤖 Building AI Agents
-- ⚛ React + TypeScript
+```bash
+> boot ketan.exe
+
+Loading React............. ██████████
+
+Loading .NET.............. ██████████
+
+Loading TypeScript........ ██████████
+
+Loading AI Agents......... ██████████
+
+Loading Creativity........ ██████████
+
+Mission Started ✔
+```
+
+---
+
+# 🧠 ABOUT ME
+
+I'm a Full Stack Software Engineer passionate about building scalable products with **React**, **TypeScript**, **.NET**, and **AI**.
+
+Currently building enterprise applications while exploring:
+
+- 🤖 AI Agents
 - 🧠 MCP
 - 🔍 OpenSearch
 - ☁ Azure & AWS
-- 🚀 Enterprise Applications
+- ⚛ React
+- 🚀 .NET
 
 ---
 
-# ❤️ Health Bar
+# ❤️ PLAYER STATS
+
+| Attribute | Level |
+|-----------|------|
+| ⚛ React | ██████████ |
+| 💙 .NET | ██████████ |
+| 🟦 TypeScript | ██████████ |
+| ☁ Azure | █████████ |
+| ☁ AWS | ████████ |
+| 🐳 Docker | █████████ |
+| 🔍 OpenSearch | █████████ |
+| 🤖 AI Agents | ███████ |
+
+---
+
+# 🎯 CURRENT QUEST
 
 ```text
-Coding        ██████████ 100%
+✔ Building AI Agents
 
-Learning      ██████████ 100%
+✔ Enterprise Applications
 
-Creativity    █████████░ 90%
+✔ Open Source
 
-Coffee        ████████░░ 80%
+✔ Learning System Design
 
-Sleep         ███░░░░░░░ 30%
+✔ Shipping Great Products
 ```
 
 ---
 
-# 🧠 Skill Tree
-
-| Skill | Level |
-|-------|------|
-| React | ██████████ |
-| TypeScript | ██████████ |
-| .NET | ██████████ |
-| C# | ██████████ |
-| PostgreSQL | █████████ |
-| Docker | █████████ |
-| Azure | ████████ |
-| AWS | ████████ |
-| OpenSearch | █████████ |
-| AI Agents | ███████ |
-
----
-
-# ⚔ Boss Battles Completed
+# ⚔️ BOSS BATTLES
 
 ## 🏥 Healthcare Platform
 
-✔ Modernized 40+ desktop apps
+🏆 Modernized 40+ Desktop Applications
 
 Reward
 
@@ -113,21 +125,21 @@ Reward
 
 + .NET
 
-+ APIs
++ REST APIs
 
 + Entity Framework
 
 ---
 
-## 🏗 APS Development
+## 🏗 Autodesk Platform Services
 
-✔ Built enterprise APS solutions
+🏆 Built APS Integrated Applications
 
 Reward
 
-+ Autodesk Platform Services
++ APS
 
-+ CI/CD
++ Viewer
 
 + Cloud
 
@@ -137,38 +149,38 @@ Reward
 
 ## 🤖 Autodesk
 
-Current Boss
+Current Mission
 
-Progress
-
+```
 █████████░ 90%
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-| Project | Description |
-|---------|-------------|
-| 🎮 Retro Web App | 90's inspired UI |
-| 🍏 Apple Clone | GSAP animations |
-| 📺 YouTube Clone | Full Stack Application |
-| 💼 Job Hunter Dashboard | Track interviews & offers |
-| 🤖 AI Agent | Enterprise AI Assistant |
-| 🎯 Catch The Code | Browser Mini Game |
+| 🎯 Project | Tech |
+|------------|------|
+| 🤖 AI Agent | React • .NET • MCP |
+| 🎮 Catch The Code | JavaScript |
+| 💼 Job Hunter Dashboard | React • .NET |
+| 🍏 Apple Clone | React • GSAP |
+| 📺 YouTube Clone | React • Firebase |
+| 🎮 Retro Web App | React |
 
 ---
 
-# 🎮 Bonus Level
+# 🎮 BONUS LEVEL
 
 <div align="center">
 
-<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/catchthecode.gif" width="75%" />
+<img src="./assets/catchthecode.gif" width="70%"/>
 
-### Think you're fast enough?
+### Think you can beat my score?
 
 <a href="https://ketanu0690.github.io/game">
 
-<img src="https://img.shields.io/badge/PLAY_NOW-000000?style=for-the-badge&logo=javascript&logoColor=yellow">
+<img src="https://img.shields.io/badge/PLAY_NOW-black?style=for-the-badge&logo=javascript"/>
 
 </a>
 
@@ -176,32 +188,31 @@ Progress
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
 - 🏅 Autodesk
 - 🏅 Enterprise Software
-- 🏅 70+ APIs Delivered
-- 🏅 Open Source Enthusiast
+- 🏅 AI Explorer
+- 🏅 Open Source
 - 🏅 React
 - 🏅 TypeScript
-- 🏅 .NET
+- 🏅 Docker
 - 🏅 Azure
 - 🏅 AWS
-- 🏅 Docker
 
 ---
 
-# ⚙ Tech Stack
+# ⚡ TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,cs,dotnet,nodejs,html,css,tailwind,postgres,mysql,aws,azure,docker,redis,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,cs,dotnet,nodejs,html,css,tailwind,postgres,mysql,aws,azure,docker,redis,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -219,47 +230,7 @@ Progress
 
 ---
 
-# 🤖 AI Companion
-
-```text
- ______________________________________
-
- Hello 👋
-
- I'm DOT.
-
- Ketan's AI Companion.
-
- Current Status
-
- ✓ Building AI
- ✓ Writing Code
- ✓ Learning Everyday
- ✓ Drinking Coffee
-
- Next Objective
-
- ► Build Something Amazing
-
-______________________________________
-```
-
----
-
-# 🎒 Inventory
-
-- 💻 VS Code
-- ☕ Coffee
-- 🎨 Pixel Art
-- 📷 Photography
-- 🌍 Travel
-- 🤖 AI
-- 📚 System Design
-- 🎮 Retro Games
-
----
-
-# 📈 Contribution Graph
+# 📈 ACTIVITY GRAPH
 
 <p align="center">
 
@@ -269,7 +240,7 @@ ______________________________________
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 
@@ -279,24 +250,69 @@ ______________________________________
 
 ---
 
-# 💡 Random Dev Quote
+# 🎒 INVENTORY
 
-> "First make it work. Then make it beautiful. Finally make it unforgettable."
+```text
+💻 VS Code
+
+⚛ React
+
+💙 .NET
+
+🤖 AI
+
+☕ Coffee
+
+🎨 Pixel Art
+
+🌍 Travel
+
+📷 Photography
+
+🎮 Retro Games
+```
+
+---
+
+# 🤖 AI COMPANION
+
+```text
+ _______________________________________
+
+ Hello Human 👋
+
+ I'm DOT.
+
+ Ketan's AI Assistant.
+
+ Current Mission
+
+ ► Build Amazing Software
+
+ ► Keep Learning
+
+ ► Keep Creating
+
+ ► Never Stop Shipping
+
+_______________________________________
+```
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for visiting!
+## ⭐ GAME SAVED
 
 ```text
 MISSION COMPLETE
 
-Saving Progress...
+██████████████████████
 
-████████████████████ 100%
+Thanks for visiting.
 
-See you in the next commit 👋
+See you in the next commit.
+
+🎮 Continue?
 ```
-
 </div>
