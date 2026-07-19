@@ -1,142 +1,302 @@
-<h1 align="center">Hi, I'm Ketan Upadhyay 👋</h1>
 
-<h3 align="center">
-In the symphony of software development, I orchestrate the harmony of React and .NET — creating applications that resonate with both performance and user experience.
-</h3>
+# Hi, I'm Ketan Upadhyay 👋
 
 <div align="center">
-  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/Profile_Banner.PNG" alt="Ketan Upadhyay Banner" width="100%">
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ketanu0690/ketanu0690/main/intro_animation.gif" alt="Developer Intro" width="70%">
-</div>
+<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/Profile_Banner.PNG" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ketan-upadhyay-382506149/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ketanupadhyay40@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://wa.me/9340015842" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+<br><br>
 
----
+<img src="https://raw.githubusercontent.com/ketanu0690/ketanu0690/main/intro_animation.gif" width="75%" />
 
-<h2>📄 Summary</h2>
+# 🎮 PLAYER PROFILE
+
+```text
+╔══════════════════════════════════════╗
+║ Name     : Ketan Upadhyay            ║
+║ Class    : Full Stack Engineer       ║
+║ Guild    : Autodesk                  ║
+║ Level    : 25                        ║
+║ XP       : ████████████████ 3500+    ║
+║ Status   : Building AI Agents 🤖     ║
+╚══════════════════════════════════════╝
+```
 
 <p>
-Senior <strong>Software Developer</strong> with proven expertise in <strong>.NET development, RESTful APIs, and Autodesk Platform Services (APS)</strong>.  
-Skilled at building scalable web applications, APS-integrated solutions, and enterprise-grade APIs that enhance collaboration and performance.  
-Experienced in customizing APS Viewer, integrating ACC/BIM360 APIs, and optimizing system efficiency.  
-Adept at full-stack development, cloud deployments, and CI/CD automation — consistently delivering secure, high-quality solutions in cross-functional environments.
+<a href="https://www.linkedin.com/in/ketan-upadhyay-382506149/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ketanupadhyay40@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://ketanu0690.github.io/game">
+<img src="https://img.shields.io/badge/Play_My_Game-111111?style=for-the-badge&logo=javascript&logoColor=yellow">
+</a>
+
 </p>
 
----
-
-<h2>🧠 Technical Skills</h2>
-
-- **Programming & Frameworks:** .NET 6/8 (ASP.NET Core, Fast Endpoints), C#, Node.js  
-- **Frontend Development:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind, Material UI  
-- **Cloud & DevOps:** AWS (DynamoDB, Lambda, S3), Azure, Docker, CI/CD (YAML pipelines)  
-- **Autodesk Platform Services (APS):** ACC/BIM360 APIs, Data Management API, APS Viewer, Weave UI  
-- **Databases:** PostgreSQL, MS-SQL, DynamoDB  
-- **Testing & Tools:** JMeter, Blaze Meter, Git  
+</div>
 
 ---
 
-<h2>💼 Professional Experience</h2>
+# ⚡ Boot Sequence
 
-**🏢 Web Idea Solution LLP — Senior Software Developer**  
-📅 *02 Dec 2024 – 30 Oct 2025*  
-📍 *Remote , India*  
+```bash
+> boot developer
 
-- Developed APS-integrated applications combining **.NET 8**, **Fast Endpoints**, **React.js**, and **Weave UI** to extend ACC/BIM360 workflows  
-- Built and deployed **20+ APIs**, improving scalability and efficiency of APS-backed systems  
-- Created reusable UI libraries (React, TypeScript, Tailwind, Material UI) for consistent enterprise design patterns  
-- Enhanced reliability by integrating **CI/CD pipelines** and conducting load testing (**JMeter**, **Blaze Meter**)  
+Loading React.............. ██████████ 100%
+Loading .NET............... ██████████ 100%
+Loading TypeScript......... ██████████ 100%
+Loading AI Agents.......... ██████████ 100%
 
----
-
-**🏢 Mamsys Consultancy Services — Associate Software Developer**  
-📅 *15 May 2023 – 29 Nov 2024*  
-📍 *Noida , India* 
-- Modernized **40+ healthcare desktop apps** into web apps using **React.js**, **NX**, and **.NET Core**, achieving 50% performance gains  
-- Delivered **50+ RESTful APIs** with Entity Framework to support secure, scalable backend workflows  
-- Designed **20+ reusable React components** (forms & tables) reducing dev time by 30%  
-- Implemented scanner-based functionality improving client data entry efficiency by 30%  
-- Successfully delivered 3 major healthcare compliance projects (**Tissue Receiving**, **Tutoplast**, **PassIn-PassOut**) ensuring FDA and industry standard adherence  
+Welcome Back Ketan!
+Mission Status : ACTIVE
+```
 
 ---
 
-**🏢 Red Hill Labs — Software Developer Intern**  
-📅 *18 Feb 2022 – 15 Apr 2023* 
-📍 *Remote , India* 
+# 🎯 Current Mission
 
-- Built a full-stack **food inventory management platform (Healthy Inside – Food Cares)** using **React.js**, **TypeScript**, **Next.js**, **Node.js**, **AWS**, and **DynamoDB**  
-- Developed responsive UIs with server-side rendering in **Next.js**, improving load speed by 40%  
-- Implemented secure authentication and role-based access control following **OWASP** best practices  
-- Optimized backend and DB performance for real-time operations, enhancing data accuracy by 25%  
-
----
-
-<h2>🎓 Education</h2>
-
-**B.Tech – Information Technology**  
-ITM Group of Institutions, Gwalior | 2019 – 2023  
+- 🤖 Building AI Agents
+- ⚛ React + TypeScript
+- 🧠 MCP
+- 🔍 OpenSearch
+- ☁ Azure & AWS
+- 🚀 Enterprise Applications
 
 ---
 
-<h2>🧩 Featured Projects</h2>
+# ❤️ Health Bar
 
-| Project | Tech Stack | Description |
-|----------|-------------|-------------|
-| 🎮 **Retro Web Application** | React, TypeScript, Styled Components | A nostalgia-packed web experience inspired by 90s UI and pixel aesthetics. |
-| 🎥 **YouTube Clone** | React, Node.js, Firebase | A fully responsive clone with video upload, auth, and real-time comments. |
-| 🍏 **Apple Website Clone** | React, TailwindCSS, GSAP | A pixel-perfect recreation of Apple’s website with scroll animations and transitions. |
-| 💼 **Job Hunter Dashboard** | .NET 8, React, SQL Server | A data-driven dashboard for tracking applications, interviews, and offers. |
+```text
+Coding        ██████████ 100%
 
+Learning      ██████████ 100%
+
+Creativity    █████████░ 90%
+
+Coffee        ████████░░ 80%
+
+Sleep         ███░░░░░░░ 30%
+```
 
 ---
 
-<h2>🎮 Mini Game — Catch the Code!</h2>
+# 🧠 Skill Tree
 
-<p align="center">A fun little browser game built by me — test your reflexes and catch the floating <b>"const"</b> before time runs out!</p>
+| Skill | Level |
+|-------|------|
+| React | ██████████ |
+| TypeScript | ██████████ |
+| .NET | ██████████ |
+| C# | ██████████ |
+| PostgreSQL | █████████ |
+| Docker | █████████ |
+| Azure | ████████ |
+| AWS | ████████ |
+| OpenSearch | █████████ |
+| AI Agents | ███████ |
+
+---
+
+# ⚔ Boss Battles Completed
+
+## 🏥 Healthcare Platform
+
+✔ Modernized 40+ desktop apps
+
+Reward
+
++ React
+
++ .NET
+
++ APIs
+
++ Entity Framework
+
+---
+
+## 🏗 APS Development
+
+✔ Built enterprise APS solutions
+
+Reward
+
++ Autodesk Platform Services
+
++ CI/CD
+
++ Cloud
+
++ FastEndpoints
+
+---
+
+## 🤖 Autodesk
+
+Current Boss
+
+Progress
+
+█████████░ 90%
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎮 Retro Web App | 90's inspired UI |
+| 🍏 Apple Clone | GSAP animations |
+| 📺 YouTube Clone | Full Stack Application |
+| 💼 Job Hunter Dashboard | Track interviews & offers |
+| 🤖 AI Agent | Enterprise AI Assistant |
+| 🎯 Catch The Code | Browser Mini Game |
+
+---
+
+# 🎮 Bonus Level
+
+<div align="center">
+
+<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/catchthecode.gif" width="75%" />
+
+### Think you're fast enough?
+
+<a href="https://ketanu0690.github.io/game">
+
+<img src="https://img.shields.io/badge/PLAY_NOW-000000?style=for-the-badge&logo=javascript&logoColor=yellow">
+
+</a>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+- 🏅 Autodesk
+- 🏅 Enterprise Software
+- 🏅 70+ APIs Delivered
+- 🏅 Open Source Enthusiast
+- 🏅 React
+- 🏅 TypeScript
+- 🏅 .NET
+- 🏅 Azure
+- 🏅 AWS
+- 🏅 Docker
+
+---
+
+# ⚙ Tech Stack
 
 <p align="center">
-  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/catchthecode.gif" alt="Catch the Code Game Preview" width="70%">
-</p>
 
-<p align="center">
-  <a href="https://ketanu0690.github.io/game" target="_blank">
-    <img src="https://img.shields.io/badge/🎮 Play_Now-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Play Game">
-  </a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,cs,dotnet,nodejs,html,css,tailwind,postgres,mysql,aws,azure,docker,redis,git,github,vscode" />
+
 </p>
 
 ---
 
-<h2>⚡ Tech Stack</h2>
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,cs,dotnet,html,css,tailwind,aws,azure,docker,git,github" />
-  <img src="https://github.com/ketanu0690/media-kit/blob/main/Images/autodesk_logo.jpeg" alt="autodesk" height="48" style="vertical-align: middle; margin-left: 6px;" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ketanu0690&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanu0690&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanu0690&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+# 🤖 AI Companion
+
+```text
+ ______________________________________
+
+ Hello 👋
+
+ I'm DOT.
+
+ Ketan's AI Companion.
+
+ Current Status
+
+ ✓ Building AI
+ ✓ Writing Code
+ ✓ Learning Everyday
+ ✓ Drinking Coffee
+
+ Next Objective
+
+ ► Build Something Amazing
+
+______________________________________
+```
+
+---
+
+# 🎒 Inventory
+
+- 💻 VS Code
+- ☕ Coffee
+- 🎨 Pixel Art
+- 📷 Photography
+- 🌍 Travel
+- 🤖 AI
+- 📚 System Design
+- 🎮 Retro Games
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketanu0690&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketanu0690&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketanu0690&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-<h3 align="center">“Maybe God created eyes so that man could appreciate art.” — Ketan Upadhyay 🎨</h3>
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 Random Dev Quote
+
+> "First make it work. Then make it beautiful. Finally make it unforgettable."
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+```text
+MISSION COMPLETE
+
+Saving Progress...
+
+████████████████████ 100%
+
+See you in the next commit 👋
+```
+
+</div>
