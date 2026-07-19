@@ -2,11 +2,11 @@
 
 # 🎮 KETAN.EXE
 
-<img src="[https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png](https://github.com/ketanu0690/media-kit/blob/main/Images/cyberpunk-banner.png)" width="100%" alt="Cyberpunk Banner"/>
+<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png" width="100%" alt="Cyberpunk Banner"/>
 
 <br>
 
-<img src="[./assets/pixel-night.gif](https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png)" width="100%" alt="Pixel Night"/>
+<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png" width="100%" alt="Pixel Night"/>
 
 <h3>
 LEVEL 25 • SOFTWARE ENGINEER • AI BUILDER
