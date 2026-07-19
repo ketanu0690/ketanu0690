@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/pixel-night.png" width="100%" alt="Pixel Night"/>
+<img src="https://github.com/ketanu0690/media-kit/blob/main/Images/cyberpunk-banner.png" width="100%" alt="Pixel Night"/>
 
 <h3>
 LEVEL 25 • SOFTWARE ENGINEER • AI BUILDER
